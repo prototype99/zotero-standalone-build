@@ -1,0 +1,213 @@
+[remote "upstream"]
+	url = git@github.com:zotero/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/upstream/*
+[remote "simonster"]
+	url = git@github.com:simonster/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/simonster/*
+[remote "mikesteele81"]
+	url = git@github.com:mikesteele81/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/mikesteele81/*
+[remote "Panzerkampfwagen"]
+	url = git@github.com:Panzerkampfwagen/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/Panzerkampfwagen/*
+[remote "qualton"]
+	url = git@github.com:qualton/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/qualton/*
+[remote "smathot"]
+	url = git@github.com:smathot/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/smathot/*
+[remote "neam"]
+	url = git@github.com:neam/webapp-xul-wrapper.git
+	fetch = +refs/heads/*:refs/remotes/neam/*
+[remote "hajarhomayouni"]
+	url = git@github.com:hajarhomayouni/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/hajarhomayouni/*
+[remote "marnen"]
+	url = git@github.com:marnen/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/marnen/*
+[remote "juncedrick"]
+	url = git@github.com:juncedrick/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/juncedrick/*
+[remote "Wagnerp"]
+	url = git@github.com:Wagnerp/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/Wagnerp/*
+[remote "emilienkofman"]
+	url = git@github.com:emilienkofman/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/emilienkofman/*
+[remote "drvinceknight"]
+	url = git@github.com:drvinceknight/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/drvinceknight/*
+[remote "Naejard"]
+	url = git@github.com:Naejard/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/Naejard/*
+[remote "mtd91429"]
+	url = git@github.com:mtd91429/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/mtd91429/*
+[remote "alexjfecteau"]
+	url = git@github.com:alexjfecteau/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/alexjfecteau/*
+[remote "billjordan"]
+	url = git@github.com:billjordan/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/billjordan/*
+[remote "Juris-M"]
+	url = git@github.com:Juris-M/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/Juris-M/*
+[remote "vipkp"]
+	url = git@github.com:vipkp/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/vipkp/*
+[remote "fleimgruber"]
+	url = git@github.com:fleimgruber/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/fleimgruber/*
+[remote "kalagau"]
+	url = git@github.com:kalagau/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/kalagau/*
+[remote "xinttest"]
+	url = git@github.com:xinttest/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/xinttest/*
+[remote "CrazyKsv"]
+	url = git@github.com:CrazyKsv/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/CrazyKsv/*
+[remote "ColinDruery"]
+	url = git@github.com:ColinDruery/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/ColinDruery/*
+[remote "kewarthm"]
+	url = git@github.com:kewarthm/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/kewarthm/*
+[remote "fwahl711"]
+	url = git@github.com:fwahl711/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/fwahl711/*
+[remote "jeff-kerr"]
+	url = git@github.com:jeff-kerr/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/jeff-kerr/*
+[remote "epiraces"]
+	url = git@github.com:epiraces/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/epiraces/*
+[remote "markdoerr"]
+	url = git@github.com:markdoerr/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/markdoerr/*
+[remote "assoum82"]
+	url = git@github.com:assoum82/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/assoum82/*
+[remote "gracile-fr"]
+	url = git@github.com:gracile-fr/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/gracile-fr/*
+[remote "enfoTek"]
+	url = git@github.com:enfoTek/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/enfoTek/*
+[remote "kohalmykristof"]
+	url = git@github.com:kohalmykristof/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/kohalmykristof/*
+[remote "adomasven"]
+	url = git@github.com:adomasven/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/adomasven/*
+[remote "dingsabc"]
+	url = git@github.com:dingsabc/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/dingsabc/*
+[remote "mrtcode"]
+	url = git@github.com:mrtcode/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/mrtcode/*
+[remote "mystyc"]
+	url = git@github.com:mystyc/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/mystyc/*
+[remote "krishna2nd"]
+	url = git@github.com:krishna2nd/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/krishna2nd/*
+[remote "nedrichards"]
+	url = git@github.com:nedrichards/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/nedrichards/*
+[remote "bjzhangyong"]
+	url = git@github.com:bjzhangyong/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/bjzhangyong/*
+[remote "Pandinosaurus"]
+	url = git@github.com:Pandinosaurus/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/Pandinosaurus/*
+[remote "johnojha"]
+	url = git@github.com:johnojha/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/johnojha/*
+[remote "adityavs"]
+	url = git@github.com:adityavs/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/adityavs/*
+[remote "inukshuk"]
+	url = git@github.com:inukshuk/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/inukshuk/*
+[remote "daggmano"]
+	url = git@github.com:daggmano/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/daggmano/*
+[remote "rocknowradio"]
+	url = git@github.com:rocknowradio/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/rocknowradio/*
+[remote "simonclouds"]
+	url = git@github.com:simonclouds/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/simonclouds/*
+[remote "bryanchance"]
+	url = git@github.com:bryanchance/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/bryanchance/*
+[remote "s1tsu"]
+	url = git@github.com:s1tsu/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/s1tsu/*
+[remote "diamond2nv"]
+	url = git@github.com:diamond2nv/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/diamond2nv/*
+[remote "micahstubbs"]
+	url = git@github.com:micahstubbs/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/micahstubbs/*
+[remote "ailintom"]
+	url = git@github.com:ailintom/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/ailintom/*
+[remote "zhengfengran"]
+	url = git@github.com:zhengfengran/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/zhengfengran/*
+[remote "liladude"]
+	url = git@github.com:liladude/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/liladude/*
+[remote "handsofthecommunity"]
+	url = git@github.com:handsofthecommunity/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/handsofthecommunity/*
+[remote "DaoCalendar"]
+	url = git@github.com:DaoCalendar/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/DaoCalendar/*
+[remote "EdiEco"]
+	url = git@github.com:EdiEco/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/EdiEco/*
+[remote "jankap"]
+	url = git@github.com:jankap/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/jankap/*
+[remote "sametwoo"]
+	url = git@github.com:sametwoo/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/sametwoo/*
+[remote "eejd"]
+	url = git@github.com:eejd/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/eejd/*
+[remote "TimothyGu"]
+	url = git@github.com:TimothyGu/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/TimothyGu/*
+[remote "strogo"]
+	url = git@github.com:strogo/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/strogo/*
+[remote "paddlelaw"]
+	url = git@github.com:paddlelaw/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/paddlelaw/*
+[remote "Galactromeda"]
+	url = git@github.com:Galactromeda/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/Galactromeda/*
+[remote "easyteacher"]
+	url = git@github.com:easyteacher/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/easyteacher/*
+[remote "AbeJellinek"]
+	url = git@github.com:AbeJellinek/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/AbeJellinek/*
+[remote "MikaelUrankar"]
+	url = git@github.com:MikaelUrankar/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/MikaelUrankar/*
+[remote "tnajdek"]
+	url = git@github.com:tnajdek/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/tnajdek/*
+[remote "LyzardKing"]
+	url = git@github.com:LyzardKing/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/LyzardKing/*
+[remote "yuyichao"]
+	url = git@github.com:yuyichao/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/yuyichao/*
+[remote "panpan1991"]
+	url = git@github.com:panpan1991/zotero-standalone-build.git
+	fetch = +refs/heads/*:refs/remotes/panpan1991/*
